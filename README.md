@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain dev
 - 🌱 I’m currently learning solidity and solana
 - 💞️ I’m looking to collaborate on decentralised and open source
-- 📫 How to reach me through my twitter 
+- 📫 How to reach me through my twitter https://x.com/11xOrekI?t=GT4hbFtXfLrFBrgpy-4MBg&s=09
 
 
 <!---
